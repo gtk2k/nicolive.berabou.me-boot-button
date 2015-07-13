@@ -1,6 +1,9 @@
 #BerabouMe表示ボタン
 berabou.meを表示するボタンをニコ生ページに追加する拡張機能のモックです。
 
+##ダウンロード、解凍
+ダウンロードして、適当なフォルダに解凍します。フォルダの名前は、後ろに.safariextensionとつけることで、Safariの拡張機能ビルダーで読み込むことができるようになります。
+
 ##早速試す
 早速試せるようにビルドしたものも入れておきます。
 ###Chrome
@@ -13,4 +16,4 @@ Chromeの場合は、ウェブストアにアップしてインストールす�
 ###Firefoxの場合
 メニューからアドオンを選択し、アドオンページが表示されたら、@beraboumedisplaybutton-0.0.1.xpiをドラッグアンドドロップします。
 ###Safariの場合
-@nicolive.berabou.me_boot_button-0.0.1.xpiをダブルクリックしてインストールします。
+beraboumedisplaybutton.safariextzをダブルクリックしてインストールします。
