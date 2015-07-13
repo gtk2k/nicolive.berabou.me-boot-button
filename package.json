@@ -1,0 +1,13 @@
+{
+  "title": "BerabouMe表示ボタン",
+  "name": "beraboumedisplaybutton",
+  "version": "0.0.1",
+  "description": "berabou.meを表示するボタンをニコ生ページに追加します。",
+  "main": "index.js",
+  "author": "gtk2k",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
